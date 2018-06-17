@@ -1,6 +1,6 @@
 {
-  "name": "jb-utils-sum",
-  "version": "0.0.1",
+  "name": "jb-utils",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
