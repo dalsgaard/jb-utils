@@ -1,6 +1,6 @@
 {
-  "name": "jb-utils",
-  "version": "0.0.2",
+  "name": "@jyskebank/jb-utils",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
